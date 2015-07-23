@@ -1,5 +1,6 @@
-# Getting & Cleaning Data - Course Project 1
-## Explanation of "run_analysis.R" script
+# Getting & Cleaning Data 
+## Course Project 1
+### Explanation of "run_analysis.R" script
 
 #### Preparatory Steps
 
